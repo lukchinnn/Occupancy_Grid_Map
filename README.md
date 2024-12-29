@@ -21,3 +21,4 @@
 - https://www.youtube.com/watch?v=GazC3A4OQTE
 - https://www.youtube.com/watch?v=epDKamC-V-8&list=PL-osiE80TeTsllUYGWPRStXSSKwonuvei
 - https://www.youtube.com/watch?v=JtiK0DOeI4A
+- https://www.pythontutorial.net/tkinter/
