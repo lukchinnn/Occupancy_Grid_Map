@@ -19,3 +19,5 @@
 - https://www.youtube.com/watch?v=QR3U1dgc5RE
 - https://www.youtube.com/watch?v=ySN5Wnu88nE
 - https://www.youtube.com/watch?v=GazC3A4OQTE
+- https://www.youtube.com/watch?v=epDKamC-V-8&list=PL-osiE80TeTsllUYGWPRStXSSKwonuvei
+- https://www.youtube.com/watch?v=JtiK0DOeI4A
