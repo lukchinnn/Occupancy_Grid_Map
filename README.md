@@ -15,3 +15,7 @@
 # Source
 - https://en.wikipedia.org/wiki/A*_search_algorithm
 - https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
+- https://en-m-wikipedia-org.translate.goog/wiki/Rapidly_exploring_random_tree?_x_tr_sl=en&_x_tr_tl=th&_x_tr_hl=th&_x_tr_pto=wa
+- https://www.youtube.com/watch?v=QR3U1dgc5RE
+- https://www.youtube.com/watch?v=ySN5Wnu88nE
+- https://www.youtube.com/watch?v=GazC3A4OQTE
