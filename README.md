@@ -11,3 +11,7 @@
 - Press d to run Dijkstra.
 - Press t to run RRT.
 - Press Escape to toggle fullscreen mode.
+
+# Source
+- https://en.wikipedia.org/wiki/A*_search_algorithm
+- https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm
