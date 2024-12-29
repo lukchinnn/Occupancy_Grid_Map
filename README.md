@@ -6,8 +6,8 @@
 5. Choose which algorithm you want to use
 
 # Keybord Shortcut
-Press r to reset and generate a new random map.
-Press a to run A*.
-Press d to run Dijkstra.
-Press t to run RRT.
-Press Escape to toggle fullscreen mode.
+- Press r to reset and generate a new random map.
+- Press a to run A*.
+- Press d to run Dijkstra.
+- Press t to run RRT.
+- Press Escape to toggle fullscreen mode.
